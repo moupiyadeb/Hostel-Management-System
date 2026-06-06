@@ -40,7 +40,3 @@ Import the SQL file from the database folder into MySQL Workbench.
 Database name:
 
 hostel_management
-
-## Developer
-
-Moupiya Deb
